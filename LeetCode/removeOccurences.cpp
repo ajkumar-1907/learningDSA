@@ -12,7 +12,7 @@ public:
     }
 };
 
-int main() {
+int main(){
     string s, part;
     cout << "Enter the main string: ";
     getline(cin, s);
