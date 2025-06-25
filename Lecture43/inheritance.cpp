@@ -34,3 +34,23 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+// -->>  Types of Inheritance in C++:
+//              Single Inheritance – One derived class inherits from one base class.
+
+//              Multilevel Inheritance – A derived class inherits from another derived class.
+
+//              Multiple Inheritance – A class inherits from more than one base class.
+
+//              Hierarchical Inheritance – Multiple classes inherit from one base class.
+
+//              Hybrid Inheritance – A combination of two or more types.
+

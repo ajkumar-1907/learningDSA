@@ -27,7 +27,8 @@ bool isPalindrome(const string& s) {
 
     while (i < j) {
         if (tmp[i] != tmp[j]) return false;
-        ++i;  --j;
+        ++i;  
+        --j;
     }
     return true;
 }

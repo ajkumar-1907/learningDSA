@@ -1,7 +1,7 @@
 #include <iostream>
+
 using namespace std;
 
-// Function to compute GCD using Euclidean algorithm
 int gcd(int a, int b) {
     if (a == 0)
         return b;
