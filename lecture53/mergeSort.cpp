@@ -84,7 +84,7 @@ node* mergeSort(node* head) {
     return merge(left, right);
 }
 
-// Sample usage
+
 int main() {
     // Creating an unsorted linked list: 5 -> 3 -> 8 -> 2 -> 1
     node* head = new node(5);
